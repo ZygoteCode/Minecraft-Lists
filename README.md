@@ -8,6 +8,7 @@
 * [DirectLeaks](https://directleaks.to/)
 * [MykerdLeaks](https://t.me/mykerdleaks)
 * [FireSpigot](https://firespigot.com/)
+* [NullForums](https://nullforums.net/)
 # Best anti-exploit plugins
 * [tioLPXe](https://builtbybit.com/resources/lpx-antipacketexploit-antinettycrasher.15709/)
 * [SpigotGuard](https://polymart.org/resource/spigotguard-spigot-anticrash.32)
