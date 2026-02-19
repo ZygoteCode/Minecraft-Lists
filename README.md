@@ -5,7 +5,7 @@
 * [MasterOf13FPS](https://www.masterof13fps.com/forum/index.php)
 * [BlackSpigot](https://blackspigot.com/)
 * [SpigotUnlocked](https://spigotunlocked.com/)
-* [DirectLeaks](https://directleaks.to/)
+* [NulledVault](https://nulledvault.com/)
 * [MykerdLeaks](https://t.me/mykerdleaks)
 * [FireSpigot](https://firespigot.com/)
 * [NullForums](https://nullforums.net/)
